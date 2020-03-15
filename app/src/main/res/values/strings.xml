@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Einzelabgabe</string>
+    <string name="info_textView">Please enter your Immatriculation number</string>
+    <string name="server_response">Answer from server</string>
+    <string name="btn_send">Send to Server</string>
+    <string name="btn_calculate">Perform Calculation</string>
+    <string name="sorted">SORTED</string>
+    <string name="immNr_Hint">11703184</string>
+</resources>
